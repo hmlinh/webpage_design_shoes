@@ -5,3 +5,61 @@ font-weight: 1000;
 text-transform: uppercase;
 font-size: xx-large;
 }
+
+#layout1 {
+  background-image: linear-gradient(120deg, #F2FF00, #00FFB7);
+}
+
+#layout1 .container{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#layout1 h2{
+  font-family: 'Raleway', sans-serif;
+  color: #111;
+  border-left: solid 32px #111;
+  line-height: 32px;
+  padding-left: 10px;
+}
+
+.card {
+  border-radius: 5px;
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.3);
+  font-family: 'Raleway', sans-serif;
+  min-height: 400px;
+  margin-bottom: 15px;
+  background: white;
+}
+
+/* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
+.card .card-title {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* here we are target all the elements with both classes "card-title" and "first" that are inside an element with a "card" class */
+.card .card-title.first {
+  background-image: linear-gradient(120deg, #FF00A1, #F6FF00);
+}
+
+.card .card-title.second {
+  background-image: linear-gradient(120deg, #F2FF00, #00FFB7);
+}
+
+.card .card-title.third {
+  background-image: linear-gradient(120deg, #00FF51, #0004FF);
+}
+
+.card .card-content {
+  padding: 10px;
+}
+
+/* here we are target all the "h3" elements that are inside an element with a "card" class */
+.card h3 {
+  margin-top: 60px;
+  margin-bottom: 0;
+  color: #111;
+}
