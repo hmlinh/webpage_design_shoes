@@ -14,9 +14,7 @@ font-size: x-large;
 text-align: center;
 }
 
-#bestseller {
-  background-image: linear-gradient(120deg, #F2FF00, #00FFB7);
-}
+#bestseller 
 
 h2{ 
 font-family: 'Rufina', serif;
@@ -24,6 +22,7 @@ font-weight: 1000;
 text-transform: uppercase;
 font-size: xx-large;
 margin-top: 100px;
+text-align: center;
 }
 
 
