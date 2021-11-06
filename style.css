@@ -14,8 +14,12 @@ font-size: x-large;
 text-align: center;
 }
 
-#bestseller 
-
+#bestseller {
+  background-image: linear-gradient(120deg, #F2FF00, #00FFB7);
+}
+.best .best-i {
+background-image: url("https://cdn.glitch.me/dd6f1e68-aca4-4c89-8977-d23ac82dd3e3%2Fmojtaba-mosayebzadeh--RR51_7u8uw-unsplash.jpg?v=1636229326367");
+}
 h2 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
@@ -23,7 +27,6 @@ text-transform: uppercase;
 font-size: xx-large;
 margin-top: 100px;
 text-align: center;
-background: #EEG;
 }
 
 
