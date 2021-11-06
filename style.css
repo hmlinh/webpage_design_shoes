@@ -15,8 +15,10 @@ text-align: center;
 }
 
 #bestseller 
-
-h2{ 
+.container .best {
+background-image: url("https://cdn.glitch.me/dd6f1e68-aca4-4c89-8977-d23ac82dd3e3%2Fmojtaba-mosayebzadeh--RR51_7u8uw-unsplash.jpg?v=1636229326367");
+}
+h2 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
