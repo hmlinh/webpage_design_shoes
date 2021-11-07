@@ -35,8 +35,6 @@ text-align: center;
 }
 
 
-
-
 #shoerow1  .card {
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
@@ -53,10 +51,12 @@ background: #EEF;
 .card .card-description h6 {
 margin-bottom: 0;
 font-size: 0.95em;
+font-weight: 600;
 }
 .card .card-description h5 {
 margin-bottom: 0;
 font-size: 1.1em;
+font-weight: 600;
 }
 .card .card-description p {
 margin-bottom: 6px;
