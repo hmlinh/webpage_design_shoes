@@ -134,12 +134,14 @@ background-color: black;
 border-color: black;
 }
 
-#media .container .fab .fa-facebook-square
-p {
-text-align: center;
+#media .container .fab {
 margin-top: 50px;
+padding-right: 10px;
 }
 
-#media .container .fab .fa-facebook-square
+#media .container p {
+text-align: center;
+}
+
 
 
