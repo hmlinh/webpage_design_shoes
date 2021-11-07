@@ -28,7 +28,7 @@ margin-bottom: 15px;
 }
 
 #last-chance {
-background-color: #FFF8DC;
+background-color: #FFE4B5 /* #FFF8DC */;
 }
 
 #last-chance .pic h1 { 
@@ -50,7 +50,9 @@ font-size: 110%;
 
 
 /* Designing with Web */
-
+/* #shoerow1 {
+background-color: #FFFACD;
+} */
 
 #shoerow1 .card {
 border-radius: 5px;
@@ -62,6 +64,8 @@ margin-bottom: 15px;
 
 #shoerow1 .card .cart-link .card-pic {
 background: #F8F8FF;
+border-style: groove;
+
 }
 
 #shoerow1 .card .cart-link .card-description h6 {
