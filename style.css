@@ -35,7 +35,8 @@ text-align: center;
 }
 
 
-#shoerow1  .card {
+/* Designing with Web */
+#shoerow1 .card {
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
 min-height: 400px;
@@ -46,7 +47,6 @@ margin-bottom: 15px;
 .card .card-pic {
 background: #EEF;
 }
-/* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
 
 .card .card-description h6 {
 margin-bottom: 0;
@@ -65,13 +65,52 @@ font-size: 0.95em;
 
 .card .card-description .size {
 width: 100%;  
-} /* code not working */
+} 
+
 .card .card-description .button-primary {
 width: 100%;
 background-color: black;
 border-color: black;
 }
 
+
+
+#shoerow2 .card {
+border-radius: 5px;
+font-family: 'Montserrat', sans-serif;
+min-height: 400px;
+margin-top: 40px;
+margin-bottom: 15px;
+}
+
+.card .card-pic {
+background: #EEF;
+}
+
+.card .card-description h6 {
+margin-bottom: 0;
+font-size: 0.95em;
+font-weight: 600;
+}
+.card .card-description h5 {
+margin-bottom: 0;
+font-size: 1.1em;
+font-weight: 600;
+}
+.card .card-description p {
+margin-bottom: 6px;
+font-size: 0.95em;
+}
+
+.card .card-description .size {
+width: 100%;  
+} 
+
+.card .card-description .button-primary {
+width: 100%;
+background-color: black;
+border-color: black;
+}
 /*{
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
