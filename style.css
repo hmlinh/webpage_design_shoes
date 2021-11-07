@@ -59,12 +59,18 @@ font-size: 0.95em;
 margin-bottom: 0;
 font-weight: 500;
 font-size: 1.1em;
+font-weight: 600;
 }
 .card .card-description p {
 margin-bottom: 6px;
 font-size: 0.95em;
 }
-.card .card-description .button-primary {width 100%
+.card .card-description .size {
+width: 100%;  
+} /* code not working */
+.card .card-description .button-primary {
+width: 100%;
+}
 
 /*{
   border-top-left-radius: 5px;
