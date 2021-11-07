@@ -45,7 +45,7 @@ margin-top: 40px;
 margin-bottom: 15px;
 }
 
-.card .card-pic.first {
+.card .card-pic {
 background: #EEF;
 }
 /* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
@@ -68,6 +68,7 @@ width: 100%;
 } /* code not working */
 .card .card-description .button-primary {
 width: 100%;
+  
 }
 
 /*{
