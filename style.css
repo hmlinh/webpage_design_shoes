@@ -134,3 +134,7 @@ background-color: black;
 border-color: black;
 }
 
+#media .container p {
+text-align: center;
+}
+
