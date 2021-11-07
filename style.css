@@ -49,7 +49,9 @@ font-family: 'Montserrat', sans-serif;
 font-family: 'Montserrat', sans-serif;
   min-height: 400px;
   margin-bottom: 15px;
-  background: #EEF;
+}
+.card .card-pic.first {
+background: #EEF;
 }
 /* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
 .card .card-title {
