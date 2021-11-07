@@ -1,11 +1,12 @@
-#shipping .container {
-background-color: peige;
+#shipping {
+background-color: #F5DEB3;
 }
-.container p {
+#shipping .container p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 500;
 text-align: center;
 font-size: 80%;  
+margin-bottom: 0px;
 }
 
 #marque h1 { 
@@ -14,7 +15,8 @@ font-weight: 1000;
 text-transform: uppercase;
 font-size: 250%;
 text-align: center;
-margin-bottom: 1px;
+margin-top: 15px;
+margin-bottom: 15px;
 }
 
 
@@ -22,7 +24,7 @@ margin-bottom: 1px;
 background-color: #EEF;
 }
 
-.pic h1 { 
+#last-chance .pic h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
@@ -32,7 +34,7 @@ margin-top: 130px;
 margin-bottom: 0px;
 }
 
-.pic p {
+#last-chance .pic p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 1000;
 text-align: center;
