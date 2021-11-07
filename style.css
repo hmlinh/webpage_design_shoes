@@ -25,6 +25,7 @@ text-transform: uppercase;
 font-size: xx-large;
 text-align: center;
 margin-top: 100px;
+margin-bottom: 0px;
 }
 /* h2 and p need to be closer */
 p {
@@ -36,30 +37,36 @@ text-align: center;
 
 
 
-#shoerow1  h2{
+#shoerow1  .card {
+border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
-  color: #111;
-  border-left: solid 32px #111;
-  line-height: 32px;
-  padding-left: 10px;
+min-height: 400px;
+ margin-bottom: 15px;
 }
 
-.card {
-  border-radius: 5px;
-font-family: 'Montserrat', sans-serif;
-  min-height: 400px;
-  margin-bottom: 15px;
-}
 .card .card-pic.first {
 background: #EEF;
 }
 /* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
-.card .card-title {
+.card .card-description {
+font-family: 'Montserrat', sans-serif;
+}
+
+h6 {
+  margin-bottom: 0;
+  color: #111;
+}
+
+p {
+font-family: 'Montserrat', sans-serif;
+}
+
+/*{
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   padding: 10px;
   margin-bottom: 20px;
-}
+} */
 
 /* here we are target all the elements with both classes "card-title" and "first" that are inside an element with a "card" class */
 .card .card-title.first {
@@ -79,8 +86,3 @@ background: #EEF;
 }
 
 /* here we are target all the "h3" elements that are inside an element with a "card" class */
-.card h3 {
-  margin-top: 60px;
-  margin-bottom: 0;
-  color: #111;
-}
