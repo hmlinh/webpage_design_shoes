@@ -148,8 +148,7 @@ margin-bottom: 25px;
 }
 
 #about .container {
-margin-bottom: 150px; 
-margin-left: 100px;
+margin-bottom: 70px; 
 }
   
 #about .container h4 {
@@ -181,7 +180,7 @@ margin-bottom: 10px;
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
 margin-left: 100px;
-width: 75%;
+width: 80%;
 }
 
 #about .container .button-primary {
