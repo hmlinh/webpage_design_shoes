@@ -27,18 +27,16 @@ font-weight: 1000;
 text-transform: uppercase;
 font-size: 250%;
 text-align: center;
-margin-top: 15px;
-margin-bottom: 15px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 
 #marque .container h4 { 
-font-family: 'Rufina', serif;
-font-weight: 1000;
-text-transform: uppercase;
-font-size: 150%;
+font-family: 'Montserrat', sans-serif;
+font-size: 100%;
 text-align: center;
-margin-top: 15px;
-margin-bottom: 15px;
+margin-top: 20px;
+
 }
 
 #last-chance {
