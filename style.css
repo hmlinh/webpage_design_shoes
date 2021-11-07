@@ -1,7 +1,7 @@
 a, a:hover, a:focus, a:active {
 text-decoration: none;
 color: inherit;
-} /* source: https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
+} /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
 
 
@@ -161,3 +161,12 @@ margin-left: 100px;
 margin-top: 5px;
 margin-bottom: 10px; 
 }
+
+#about .container .mail {
+font-family: 'Montserrat', sans-serif;
+font-size: 100%;
+margin-left: 100px;
+margin-top: 5px;
+margin-bottom: 10px; 
+}
+
