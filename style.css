@@ -4,6 +4,7 @@ color: inherit;
 } /* source: https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
 
+
 #shipping {
 background-color: #F5DEB3;
 }
@@ -49,6 +50,8 @@ font-size: 110%;
 
 
 /* Designing with Web */
+
+
 #shoerow1 .card {
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
