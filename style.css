@@ -37,14 +37,20 @@ text-align: center;
 
 
 #shoerow1  h2{
-  font-family: 'Raleway', sans-serif;
+font-family: 'Montserrat', sans-serif;
   color: #111;
   border-left: solid 32px #111;
   line-height: 32px;
   padding-left: 10px;
 }
 
-
+.card {
+  border-radius: 5px;
+font-family: 'Montserrat', sans-serif;
+  min-height: 400px;
+  margin-bottom: 15px;
+  background: #EEF;
+}
 /* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
 .card .card-title {
   border-top-left-radius: 5px;
