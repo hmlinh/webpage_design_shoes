@@ -33,10 +33,11 @@ margin-bottom: 15px;
 
 #marque .container h4 { 
 font-family: 'Montserrat', sans-serif;
-font-size: 97%;
+font-size: 120%;
 margin-left: 200px;
-margin-top: 40px;
+margin-top: 35px;
 margin-bottom: 15px;
+padding-right: 50px;
 }
 
 #marque .container .sale h4 {
