@@ -17,16 +17,16 @@ font-size: 80%;
 margin-bottom: 0px;
 }
 
-#marque .container {
+/* #marque .container {
 margin-left: 15px;
-}
+} */
 
 #marque .container h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
-font-size: 250%;
 text-align: center;
+font-size: 250%;
 margin-top: 20px;
 margin-bottom: 15px;
 }
@@ -34,7 +34,7 @@ margin-bottom: 15px;
 #marque .container h4 { 
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
-margin-left: 200px;
+text-align: center;
 margin-top: 35px;
 margin-bottom: 15px;
 }
@@ -44,9 +44,10 @@ font-size: 100%;
 margin-left: 200px;
 margin-top: 35px;
 margin-bottom: 15px;
+text-align: center;
 }
 
-#marque .container .fab {
+#marque .container .fas {
 padding-right: 20px;
 }
 
