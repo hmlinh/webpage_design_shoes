@@ -28,15 +28,19 @@ text-transform: uppercase;
 font-size: 250%;
 text-align: center;
 margin-top: 20px;
-margin-bottom: 20px;
+margin-bottom: 15px;
 }
 
 #marque .container h4 { 
 font-family: 'Montserrat', sans-serif;
-font-size: 100%;
-text-align: center;
-margin-top: 20px;
+font-size: 97%;
+margin-left: 200px;
+margin-top: 40px;
+margin-bottom: 15px;
+}
 
+#marque .container .sale h4 {
+color: red;
 }
 
 #last-chance {
