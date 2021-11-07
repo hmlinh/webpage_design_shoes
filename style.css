@@ -1,6 +1,7 @@
 #shipping {
 background-color: #F5DEB3;
 }
+
 #shipping .container p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 500;
@@ -18,7 +19,6 @@ text-align: center;
 margin-top: 15px;
 margin-bottom: 15px;
 }
-
 
 #last-chance {
 background-color: #EEF;
@@ -51,30 +51,32 @@ margin-top: 40px;
 margin-bottom: 15px;
 }
 
-.card .card-pic {
+#shoerow1 .card .card-pic {
 background: #EEF;
 }
 
-.card .card-description h6 {
+#shoerow1 .card .card-description h6 {
 margin-bottom: 0;
 font-size: 0.95em;
 font-weight: 600;
 }
-.card .card-description h5 {
+
+#shoerow1 .card .card-description h5 {
 margin-bottom: 0;
 font-size: 1.1em;
 font-weight: 600;
 }
-.card .card-description p {
+
+#shoerow1 .card .card-description p {
 margin-bottom: 6px;
 font-size: 0.95em;
 }
 
-.card .card-description .size {
+#shoerow1 .card .card-description .size {
 width: 100%;  
 } 
 
-.card .card-description .button-primary {
+#shoerow1 .card .card-description .button-primary {
 width: 100%;
 background-color: black;
 border-color: black;
@@ -90,30 +92,32 @@ margin-top: 40px;
 margin-bottom: 15px;
 }
 
-.card .card-pic {
+#shoerow2 .card .card-pic {
 background: #EEF;
 }
 
-.card .card-description h6 {
+#shoerow2 .card .card-description h6 {
 margin-bottom: 0;
 font-size: 0.95em;
 font-weight: 600;
 }
-.card .card-description h5 {
+
+#shoerow2 .card .card-description h5 {
 margin-bottom: 0;
 font-size: 1.1em;
 font-weight: 600;
 }
-.card .card-description p {
+
+#shoerow2 .card .card-description p {
 margin-bottom: 6px;
 font-size: 0.95em;
 }
 
-.card .card-description .size {
+#shoerow2 .card .card-description .size {
 width: 100%;  
 } 
 
-.card .card-description .button-primary {
+#shoerow2 .card .card-description .button-primary {
 width: 100%;
 background-color: black;
 border-color: black;
