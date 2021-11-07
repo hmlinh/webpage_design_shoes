@@ -63,9 +63,7 @@ margin-bottom: 15px;
 }
 
 #shoerow1 .card .cart-link .card-pic {
-background: #F8F8FF;
-border-style: groove;
-
+background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description h6 {
@@ -106,7 +104,7 @@ margin-bottom: 15px;
 }
 
 #shoerow2 .card .cart-link .card-pic {
-background: #F8F8FF;
+background: #EEE;
 }
 
 #shoerow2 .card .cart-link .card-description h6 {
