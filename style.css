@@ -143,5 +143,20 @@ padding-right: 10px;
 text-align: center;
 }
 
+#about .container h4 {
+font-family: 'Rufina', serif;
+font-weight: 1000;
+text-transform: uppercase;
+font-size: 120%;
+margin-top: 5px;
+margin-bottom: 10px; 
+}
 
-
+#about .container h4 {
+font-family: 'Rufina', serif;
+font-weight: 1000;
+text-transform: uppercase;
+font-size: 120%;
+margin-top: 5px;
+margin-bottom: 10px; 
+}
