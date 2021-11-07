@@ -7,12 +7,6 @@ text-align: center;
 margin-bottom: 1px;
 }
 
-/* #marque h5{ 
-font-family: 'Montserrat', sans-serif;
-font-weight: 700;
-font-size: x-large;
-text-align: center;
-} */
 
 #last-chance {
 background-color: #EEF;
@@ -112,10 +106,4 @@ width: 100%;
 background-color: black;
 border-color: black;
 }
-/*{
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-  padding: 10px;
-  margin-bottom: 20px;
-} */
 
