@@ -99,32 +99,32 @@ margin-top: 40px;
 margin-bottom: 15px;
 }
 
-#shoerow2 .card .card-pic {
+#shoerow2 .card .cart-link .card-pic {
 background: #EEF;
 }
 
-#shoerow2 .card .card-description h6 {
+#shoerow2 .card .cart-link .card-description h6 {
 margin-bottom: 0;
 font-size: 0.95em;
 font-weight: 600;
 }
 
-#shoerow2 .card .card-description h5 {
+#shoerow2 .card .cart-link .card-description h5 {
 margin-bottom: 0;
 font-size: 1.1em;
 font-weight: 600;
 }
 
-#shoerow2 .card .card-description p {
+#shoerow2 .card .cart-link .card-description p {
 margin-bottom: 6px;
 font-size: 0.95em;
 }
 
-#shoerow2 .card .card-description .size {
+#shoerow2 .card .card-cart .size {
 width: 100%;  
 } 
 
-#shoerow2 .card .card-description .button-primary {
+#shoerow2 .card .card-cart .button-primary {
 width: 100%;
 background-color: black;
 border-color: black;
