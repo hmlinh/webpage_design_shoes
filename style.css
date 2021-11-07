@@ -33,16 +33,26 @@ margin-bottom: 15px;
 
 #marque .container h4 { 
 font-family: 'Montserrat', sans-serif;
-font-size: 120%;
+font-size: 100%;
 margin-left: 200px;
 margin-top: 35px;
 margin-bottom: 15px;
-padding-right: 50px;
 }
 
-#marque .container .sale h4 {
-color: red;
+#marque .container p {
+font-size: 100%;
+margin-left: 200px;
+margin-top: 35px;
+margin-bottom: 15px;
 }
+
+#marque .container .fab {
+padding-right: 20px;
+}
+
+/* #marque .container .sale h4 {
+color: red;
+} */
 
 #last-chance {
 background-color: #FFE4B5 /* #FFF8DC */;
