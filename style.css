@@ -16,7 +16,6 @@ text-align: center;
 
 #last-chance {
 background-color: #EEF;
-margin-bottom: 0px;
 }
 
 .pic h2 { 
@@ -50,15 +49,14 @@ margin-bottom: 15px;
 background: #EEF;
 }
 /* here we are target all the elements with class "card-title" that are inside an element with a "card" class */
-.card .card-description {
-font-family: 'Montserrat', sans-serif;
+.card .card-description 
+
+.card .card-description h6 {
+margin-bottom: 0;
 }
 
-h6 {
-  margin-bottom: 0;
-}
-
-p {
+.card .card-description p {
+margin-bottom: 0;
 
 }
 
