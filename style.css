@@ -217,10 +217,11 @@ margin-top: 50px;
 #media .container p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
+margin-bottom: 5px;
 }
 
 #media .container ul {
-margin-bottom: px;
+margin-bottom: 15px;
 }
 
 #media .container li {
