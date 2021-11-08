@@ -92,7 +92,7 @@ background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description {
-min-height: 150px;
+min-height: 140px;
 position: relative;
 } /*https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom*/
 
@@ -135,7 +135,7 @@ background: #EEE;
 }
 
 #shoerow2 .card .cart-link .card-description {
-min-height: 150px;
+min-height: 140px;
 position: relative;
 }
 
