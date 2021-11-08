@@ -93,6 +93,10 @@ margin-bottom: 15px;
 background: #EEE;
 }
 
+#shoerow1 .card .cart-link .card-description {
+min-height: 150px;
+}
+
 #shoerow1 .card .cart-link .card-description h6 {
 font-size: 1em;
 font-weight: 1000;
