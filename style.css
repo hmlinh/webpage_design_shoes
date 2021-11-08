@@ -58,6 +58,8 @@ color: red;
 background-color: #FFE4B5 /* #FFF8DC */;
 }
 
+
+
 #last-chance .text h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
@@ -77,8 +79,7 @@ margin-top:0px;
 }
 
 #last-chance .pic {
-height: 100%;
-display: block;
+max-height: 100%;
 }
 /* Designing with Web */
 
@@ -212,7 +213,7 @@ font-family: 'Montserrat', sans-serif;
 font-weight: 1000;
 text-transform: uppercase;
 font-size: 115%;
-margin-left: 100px;
+margin-left:100px;
 margin-top: 15px;
 margin-bottom: 8px;
 }
@@ -220,13 +221,13 @@ margin-bottom: 8px;
 #about .container .mail {
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
-margin-left: 100px;
 width: 78%;
+margin-left:100px;
 }
 
 #about .container .button-primary {
 background-color: black;
 border-color: black;
-margin-left: 100px;
+margin-left:100px;
 }
 
