@@ -38,6 +38,16 @@ margin-top: 30px;
 margin-bottom: 0px;  
 }
 
+#marque .choices ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+#marque .choices li {
+  display: inline;
+}
+
 #marque .img {
 text-align: right;
 margin-top: 30px;
@@ -239,7 +249,7 @@ margin-bottom: 8px;
 #about .container .mail {
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
-width: 75%;
+width: 78%;
 margin-left:100px;
 }
 
