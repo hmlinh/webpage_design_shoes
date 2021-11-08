@@ -58,18 +58,22 @@ color: red;
 background-color: #FFE4B5 /* #FFF8DC */;
 }
 
+#last-chance .container {
+position: relative;
+}
 
-#last-chance .pic h1 { 
+#last-chance .text h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
 font-size: 285%;
-text-align: center;
-margin-top: 100px;
-margin-bottom: 0px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
 }
 
-#last-chance .pic p {
+#last-chance .text p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 1000;
 text-align: center;
