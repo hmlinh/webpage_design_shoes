@@ -4,7 +4,6 @@ color: inherit;
 } /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
 
-
 #shipping {
 background-color: #F5DEB3;
 }
@@ -18,7 +17,6 @@ margin-bottom: 0px;
 }
 
  
-
 #marque .name h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
@@ -55,45 +53,11 @@ margin-bottom: 0px;
 display: inline;
 padding-right: 20px;
 }
-/* #marque .img {
-text-align: right;
-margin-top: 40px;
-margin-bottom: 0px;
-font-size: 125%;
-}
 
-#marque .img .fas {
-padding-right: 20px;
-} */
-/*
-#marque .container h4 { 
-font-family: 'Montserrat', sans-serif;
-font-size: 120%;
-text-align: center;
-margin-top: 35px;
-margin-bottom: 15px;
-}
-
-#marque .container p {
-font-size: 120%;
-margin-top: 35px;
-margin-bottom: 15px;
-text-align: center;
-}
-
-#marque .container .fas {
-padding-right: 20px;
-}
-
-/* #marque .container .sale h4 {
-color: red;
-} */
 
 #last-chance {
 background-color: #FFE4B5 /* #FFF8DC */;
 }
-
-
 
 #last-chance .text h1 { 
 font-family: 'Rufina', serif;
@@ -116,12 +80,9 @@ margin-top:0px;
 #last-chance .pic {
 max-height: 100%;
 }
+
+
 /* Designing with Web */
-
-/* #shoerow1 {
-background-color: #FFFACD;
-} */
-
 #shoerow1 .card {
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
@@ -207,11 +168,9 @@ border-color: black;
 }
 
 
-
 #media .container {
 text-align: center;  
 margin-top: 50px;
-
 }
 
 #media .container p {
