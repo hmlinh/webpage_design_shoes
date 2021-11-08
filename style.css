@@ -94,17 +94,11 @@ background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description h6 {
-font-size: 1.05em;
+font-size: 1em;
 font-weight: 1000;
 text-align: right;
-margin-bottom: 0px;
+margin-bottom: 2px;
 }
-
-/* #shoerow1 .card .cart-link .card-description h5 {
-margin-bottom: 0;
-font-size: 1.2em;
-font-weight: 1000;
-} */
 
 #shoerow1 .card .cart-link .card-description p {
 font-size: 0.95em;
@@ -137,20 +131,16 @@ background: #EEE;
 }
 
 #shoerow2 .card .cart-link .card-description h6 {
-margin-bottom: 0;
-font-size: 0.95em;
-font-weight: 600;
-}
-
-#shoerow2 .card .cart-link .card-description h5 {
-margin-bottom: 0;
-font-size: 1.1em;
-font-weight: 600;
+font-size: 1em;
+font-weight: 1000;
+text-align: right;
+margin-bottom: 2px;
 }
 
 #shoerow2 .card .cart-link .card-description p {
-margin-bottom: 6px;
 font-size: 0.95em;
+margin-bottom: 2px;
+width: 100%;
 }
 
 #shoerow2 .card .card-cart .size {
