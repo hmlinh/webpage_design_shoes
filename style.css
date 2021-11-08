@@ -26,13 +26,21 @@ text-transform: uppercase;
 text-align: center;
 font-size: 250%;
 margin-top: 20px;
-margin-bottom: 0px;
+margin-bottom: 10px;
+}
 
+#marque .choices h6 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+text-align: left;
+font-size: 130%;
+margin-top: 30px;
+margin-bottom: 0px;  
 }
 
 #marque .img {
 text-align: right;
-margin-top: 20px;
+margin-top: 30px;
 margin-bottom: 0px;
 font-size: 125%;
 }
@@ -110,7 +118,7 @@ background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description {
-min-height: 130px;
+min-height: 140px;
 position: relative;
 }
 
@@ -153,7 +161,7 @@ background: #EEE;
 }
 
 #shoerow2 .card .cart-link .card-description {
-min-height: 130px;
+min-height: 140px;
 position: relative;
 }
 
@@ -231,7 +239,7 @@ margin-bottom: 8px;
 #about .container .mail {
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
-width: 78%;
+width: 75%;
 margin-left:100px;
 }
 
