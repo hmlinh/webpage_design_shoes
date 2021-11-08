@@ -94,7 +94,7 @@ background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description h6 {
-font-size: 1em;
+font-size: 1.05em;
 font-weight: 1000;
 text-align: right;
 margin-bottom: 0px;
@@ -109,6 +109,7 @@ font-weight: 1000;
 #shoerow1 .card .cart-link .card-description p {
 font-size: 0.95em;
 margin-bottom: 2px;
+width: 100%;
 }
 
 #shoerow1 .card .card-cart .size {
