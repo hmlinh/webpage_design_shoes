@@ -207,17 +207,25 @@ border-color: black;
 }
 
 
-#media .container .fab {
-padding-right: 10px;
-margin-top: 6px;
+
+#media .container {
+text-align: center;  
+margin-top: 50px;
+
 }
 
 #media .container p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
-text-align: center;
-margin-top: 50px;
-margin-bottom: 15px;
+}
+
+#media .container ul {
+margin-bottom: px;
+}
+
+#media .container li {
+display: inline;
+padding-right: 10px;
 }
 
 
