@@ -60,17 +60,23 @@ padding-right: 20px;
 background-color: #FFE4B5 /* #FFF8DC */;
 }
 
-#last-chance .text h1 { 
+#last-chance .container {
+height: 100%;
+line-height: 100%;
+
+#last-chance .container h1 { 
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
 font-size: 285%;
 text-align: center;
-margin-top:120px;
+height: 100%;
+line-height: 100%;
 margin-bottom: 0px; 
+align:center;
 }
 
-#last-chance .text p {
+#last-chance p {
 font-family: 'Montserrat', sans-serif;
 font-weight: 1000;
 text-align: center;
@@ -78,9 +84,6 @@ font-size: 110%;
 margin-top:0px;
 }
 
-#last-chance .pic {
-max-height: 100%;
-}
 
 #shoerow1 .container {
 height: 100%;
