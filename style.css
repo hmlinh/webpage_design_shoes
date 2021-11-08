@@ -81,14 +81,20 @@ margin-top:0px;
 max-height: 100%;
 }
 
+#shoerow1 .row {
+display: flex;
+height: 100%; 
+}
 
 /* Designing with Web */
 #shoerow1 .card {
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
-min-height: 400px;
+min-height: 300px;
 margin-top: 40px;
 margin-bottom: 15px;
+  flex: 1;
+  padding: 16px;
 }
 
 #shoerow1 .card .cart-link .card-pic {
