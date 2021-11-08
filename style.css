@@ -29,35 +29,42 @@ margin-top: 20px;
 margin-bottom: 10px;
 }
 
-#marque .choices h6 {
+#marque .choices ul {
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
-text-align: left;
-font-size: 130%;
-margin-top: 30px;
+font-size: 110%;
+margin-top: 40px;
 margin-bottom: 0px;  
 }
 
-#marque .choices ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
-
 #marque .choices li {
-  display: inline;
+display: inline;
+padding-right: 20px;
 }
 
-#marque .img {
+#marque .img ul {
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
 text-align: right;
-margin-top: 30px;
+font-size: 110%;
+margin-top: 40px;
+margin-bottom: 0px;  
+}
+
+#marque .img li {
+display: inline;
+padding-right: 20px;
+}
+/* #marque .img {
+text-align: right;
+margin-top: 40px;
 margin-bottom: 0px;
 font-size: 125%;
 }
 
 #marque .img .fas {
 padding-right: 20px;
-}
+} */
 /*
 #marque .container h4 { 
 font-family: 'Montserrat', sans-serif;
