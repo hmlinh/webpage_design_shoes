@@ -31,7 +31,7 @@ margin-bottom: 15px;
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
 font-size: 100%;
-margin-top: 47px;
+margin-top: 45px;
 margin-bottom: 0px;  
 }
 
@@ -45,7 +45,7 @@ font-family: 'Montserrat', sans-serif;
 font-weight: 600;
 text-align: right;
 font-size: 100%;
-margin-top: 47px;
+margin-top: 45px;
 margin-bottom: 0px;  
 }
 
@@ -78,10 +78,6 @@ margin-top:0px;
 }
 
 
-#shoerow1 .container {
-overflow: hidden;
-}
-
 /* Designing with Web */
 #shoerow1 .card {
 border-radius: 5px;
@@ -111,7 +107,7 @@ text-align: right;
 margin-bottom: 2px;
 position: absolute;
 bottom: 0px;
-right: 0px;
+right: 0px; 
 }
 
 #shoerow1 .card .card-cart .size {
@@ -190,7 +186,7 @@ padding-right: 10px;
 
 
 #about .container {
-margin-bottom: 40px;
+margin-bottom: 30px;
 border-top-style: solid;
 border-top-width: 1px;
 border-top-color: LightGray;
