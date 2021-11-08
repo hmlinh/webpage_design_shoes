@@ -3,7 +3,6 @@ text-decoration: none;
 color: inherit;
 } /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
-body {height: 100%;}
  
 #shipping {
 background-color: #F5DEB3;
@@ -61,8 +60,7 @@ background-color: #FFE4B5 /* #FFF8DC */;
 }
 
 #last-chance .container {
-height: 100%;
-line-height: 100%;
+}
 
 #last-chance .container h1 { 
 font-family: 'Rufina', serif;
@@ -70,10 +68,7 @@ font-weight: 1000;
 text-transform: uppercase;
 font-size: 285%;
 text-align: center;
-height: 100%;
-line-height: 100%;
 margin-bottom: 0px; 
-align:center;
 }
 
 #last-chance p {
@@ -86,7 +81,7 @@ margin-top:0px;
 
 
 #shoerow1 .container {
-height: 100%;
+overflow: hidden;
 }
 
 /* Designing with Web */
@@ -96,17 +91,16 @@ font-family: 'Montserrat', sans-serif;
 min-height: 300px;
 margin-top: 40px;
 margin-bottom: 15px;
-height: 100%;
 }
 
 #shoerow1 .card .cart-link .card-pic {
 background: #EEE;
 }
 
-/*#shoerow1 .card .cart-link .card-description {
+#shoerow1 .card .cart-link .card-description {
 min-height: 140px;
 position: relative;
-} */
+}
 
 #shoerow1 .card .cart-link .card-description p {
 font-size: 0.95em;
@@ -117,9 +111,9 @@ font-size: 1em;
 font-weight: 1000;
 text-align: right;
 margin-bottom: 2px;
-/* position: absolute;
+position: absolute;
 bottom: 0px;
-right: 0px; */
+right: 0px;
 }
 
 #shoerow1 .card .card-cart .size {
