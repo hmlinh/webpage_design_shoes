@@ -77,8 +77,8 @@ margin-top:0px;
 }
 
 #last-chance .pic {
-max-height:100%;
-object-fit: contain;
+height: 100%;
+display: block;
 }
 /* Designing with Web */
 
