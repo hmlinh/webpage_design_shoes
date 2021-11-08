@@ -3,7 +3,8 @@ text-decoration: none;
 color: inherit;
 } /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
-
+body {height: 100%;}
+ 
 #shipping {
 background-color: #F5DEB3;
 }
@@ -81,9 +82,8 @@ margin-top:0px;
 max-height: 100%;
 }
 
-#shoerow1 .row {
-display: flex;
-height: 100%; 
+#shoerow1 .container {
+height: 100%;
 }
 
 /* Designing with Web */
@@ -93,8 +93,7 @@ font-family: 'Montserrat', sans-serif;
 min-height: 300px;
 margin-top: 40px;
 margin-bottom: 15px;
-  flex: 1;
-  padding: 16px;
+height: 100%;
 }
 
 #shoerow1 .card .cart-link .card-pic {
