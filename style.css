@@ -3,7 +3,10 @@ text-decoration: none;
 color: inherit;
 } /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
- 
+/* body{
+background-image:url("https://cdn.glitch.me/dd6f1e68-aca4-4c89-8977-d23ac82dd3e3%2Fdot-grid.png?v=1636458872716")
+} */
+
 #shipping {
 background-color: #ddbea9;
 }
