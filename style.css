@@ -30,21 +30,21 @@ margin-bottom: 15px;
 #marque .choices ul {
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
-font-size: 100%;
+font-size: 110%;
 margin-top: 45px;
 margin-bottom: 0px;  
 }
 
 #marque .choices li {
 display: inline;
-padding-right: 10px;
+padding-right: 20px;
 }
 
 #marque .img ul {
 font-family: 'Montserrat', sans-serif;
 font-weight: 600;
 text-align: right;
-font-size: 100%;
+font-size: 110%;
 margin-top: 45px;
 margin-bottom: 0px;  
 }
