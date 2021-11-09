@@ -21,7 +21,7 @@ margin-bottom: 0px;
 font-family: 'Rufina', serif;
 font-weight: 1000;
 text-transform: uppercase;
-text-align: center;
+text-align: left;
 font-size: 250%;
 margin-top: 15px;
 margin-bottom: 15px;
@@ -33,6 +33,7 @@ font-weight: 600;
 font-size: 110%;
 margin-top: 45px;
 margin-bottom: 0px;  
+text-align: center;
 }
 
 #marque .choices li {
