@@ -5,7 +5,7 @@ color: inherit;
 
  
 #shipping {
-background-color: #F5DEB3;
+background-color: #ddbea9;
 }
 
 #shipping .container p {
@@ -57,7 +57,7 @@ padding-right: 20px;
 
 
 #last-chance {
-background-color: #FFE4B5 /* #FFF8DC */;
+background-color: #ffe8d6 /* #FFF8DC */;
 }
 
 #last-chance .text h1 { 
