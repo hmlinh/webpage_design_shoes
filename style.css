@@ -1,6 +1,9 @@
-a, a:hover, a:focus, a:active {
-text-decoration: none;
-color: inherit;
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
 } /* https://stackoverflow.com/questions/6722467/how-to-remove-the-default-link-color-of-the-html-hyperlink-a-tag */
 
 /* body{
@@ -8,232 +11,224 @@ background-image:url("https://cdn.glitch.me/dd6f1e68-aca4-4c89-8977-d23ac82dd3e3
 } */
 
 #shipping {
-background-color: #ddb892;
+  background-color: #ddb892;
 }
 
 #shipping .container p {
-font-family: 'Montserrat', sans-serif;
-font-weight: 500;
-font-size: 80%;  
-margin-bottom: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 80%;
+  margin-bottom: 0px;
 }
 
 #shipping .container marquee {
-text-align: center;  
+  text-align: center;
 }
 
- 
-#marque .name h1 { 
-font-family: 'Rufina', serif;
-font-weight: 1000;
-text-transform: uppercase;
-text-align: left;
-font-size: 250%;
-margin-top: 15px;
-margin-bottom: 10px;
+#marque .name h1 {
+  font-family: "Rufina", serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 250%;
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 #marque .choices ul {
-font-family: 'Montserrat', sans-serif;
-font-weight: 600;
-font-size: 110%;
-margin-top: 25px;
-margin-bottom: 15px;  
-text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 110%;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  text-align: center;
 }
 
 #marque .choices li {
-display: inline;
-padding-right: 20px;
+  display: inline;
+  padding-right: 20px;
 }
 
 #marque .img ul {
-font-family: 'Montserrat', sans-serif;
-font-weight: 600;
-text-align: right;
-font-size: 110%;
-margin-top: 25px;
-margin-bottom: 15px;  
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  text-align: right;
+  font-size: 110%;
+  margin-top: 25px;
+  margin-bottom: 15px;
 }
 
 #marque .img li {
-display: inline;
-padding-right: 20px;
+  display: inline;
+  padding-right: 20px;
 }
-
 
 #last-chance {
-background-color: #f2cc8f /* #FFF8DC */;
+  background-color: #f2cc8f /* #FFF8DC */;
 }
 
-#last-chance .text h1 { 
-font-family: 'Rufina', serif;
-font-weight: 1000;
-text-transform: uppercase;
-font-size: 285%;
-text-align: center;
-margin-top: 115px;
-margin-bottom: 0px; 
+#last-chance .text h1 {
+  font-family: "Rufina", serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+  font-size: 285%;
+  text-align: center;
+  margin-top: 115px;
+  margin-bottom: 0px;
 }
 
 #last-chance .text p {
-font-family: 'Montserrat', sans-serif;
-font-weight: 1000;
-text-align: center;
-font-size: 110%;
-margin-top:0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 1000;
+  text-align: center;
+  font-size: 110%;
+  margin-top: 0px;
 }
-
 
 /* Designing with Web */
 #shoerow1 .card {
-border-radius: 5px;
-font-family: 'Montserrat', sans-serif;
-min-height: 300px;
-margin-top: 40px;
-margin-bottom: 15px;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  min-height: 300px;
+  margin-top: 40px;
+  margin-bottom: 15px;
 }
 
 #shoerow1 .card .cart-link .card-pic {
-background: #EEE;
+  background: #EEE;
 }
 
 #shoerow1 .card .cart-link .card-description {
-min-height: 140px;
-position: relative;
+  min-height: 140px;
+  position: relative;
 } /*https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom*/
 
 #shoerow1 .card .cart-link .card-description p {
-font-size: 0.95em;
+  font-size: 0.95em;
 }
 
 #shoerow1 .card .cart-link .card-description h6 {
-font-size: 1em;
-font-weight: 1000;
-text-align: right;
-margin-bottom: 2px;
-position: absolute;
-bottom: 0px;
-right: 0px; 
+  font-size: 1em;
+  font-weight: 1000;
+  text-align: right;
+  margin-bottom: 2px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
 
 #shoerow1 .card .card-cart .size {
-width: 100%;  
-} 
-
-#shoerow1 .card .card-cart .button-primary {
-width: 100%;
-background-color: black;
-border-color: black;
+  width: 100%;
 }
 
-
+#shoerow1 .card .card-cart .button-primary {
+  width: 100%;
+  background-color: black;
+  border-color: black;
+}
 
 #shoerow2 .card {
-border-radius: 5px;
-font-family: 'Montserrat', sans-serif;
-min-height: 400px;
-margin-top: 40px;
-margin-bottom: 15px;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  min-height: 400px;
+  margin-top: 40px;
+  margin-bottom: 15px;
 }
 
 #shoerow2 .card .cart-link .card-pic {
-background: #EEE;
+  background: #EEE;
 }
 
 #shoerow2 .card .cart-link .card-description {
-min-height: 140px;
-position: relative;
+  min-height: 140px;
+  position: relative;
 }
 
 #shoerow2 .card .cart-link .card-description p {
-font-size: 0.95em;
+  font-size: 0.95em;
 }
 
 #shoerow2 .card .cart-link .card-description h6 {
-font-size: 1em;
-font-weight: 1000;
-text-align: right;
-margin-bottom: 2px;
-position: absolute;
-bottom: 0px;
-right: 0px;
+  font-size: 1em;
+  font-weight: 1000;
+  text-align: right;
+  margin-bottom: 2px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
 
 #shoerow2 .card .card-cart .size {
-width: 100%;  
-} 
-
-#shoerow2 .card .card-cart .button-primary {
-width: 100%;
-background-color: black;
-border-color: black;
+  width: 100%;
 }
 
+#shoerow2 .card .card-cart .button-primary {
+  width: 100%;
+  background-color: black;
+  border-color: black;
+}
 
 #media .container {
-text-align: center;  
-margin-top: 50px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 #media .container p {
-font-family: 'Montserrat', sans-serif;
-font-weight: 600;
-margin-bottom: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
 #media .container ul {
-margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 #media .container li {
-display: inline;
-padding-right: 10px;
+  display: inline;
+  padding-right: 10px;
 }
-
 
 #about .container {
-margin-bottom: 30px;
-border-top-style: solid;
-border-top-width: 1px;
-border-top-color: LightGray;
+  margin-bottom: 30px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: LightGray;
 }
-  
+
 #about .container h4 {
-font-family: 'Rufina', serif;
-font-weight: 1000;
-text-transform: uppercase;
-font-size: 120%;
-margin-top: 15px;
-margin-bottom: 8px;
+  font-family: "Rufina", serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+  font-size: 120%;
+  margin-top: 15px;
+  margin-bottom: 8px;
 }
 
 #about .container h6 {
-font-family: 'Montserrat', sans-serif;
-font-weight: 600;
-font-size: 85%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 85%;
 }
 
 #about .container h5 {
-font-family: 'Montserrat', sans-serif;
-font-weight: 1000;
-text-transform: uppercase;
-font-size: 115%;
-margin-left:100px;
-margin-top: 15px;
-margin-bottom: 8px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 1000;
+  text-transform: uppercase;
+  font-size: 115%;
+  margin-left: 100px;
+  margin-top: 15px;
+  margin-bottom: 8px;
 }
 
 #about .container .mail {
-font-family: 'Montserrat', sans-serif;
-font-size: 100%;
-width: 78%;
-margin-left:100px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 100%;
+  width: 78%;
+  margin-left: 100px;
 }
 
 #about .container .button-primary {
-background-color: black;
-border-color: black;
-margin-left:100px;
+  background-color: black;
+  border-color: black;
+  margin-left: 100px;
 }
-
