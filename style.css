@@ -26,8 +26,8 @@ a:active {
   font-family: "Rufina", serif;
   text-transform: uppercase;
   text-align: left;
-   margin-top: 15px;
-  margin-bottom: 10px;
+   margin-top: 22px;
+
 }
 
 #marque .choices ul {
@@ -35,8 +35,7 @@ a:active {
   font-weight: 600;
   font-size: 110%;
   text-align: center;
-    padding-top: 25px;
-
+   margin-top: 35px;
 }
 
 #marque .choices li {
@@ -49,8 +48,7 @@ a:active {
   font-weight: 600;
   text-align: right;
   font-size: 110%; 
-    padding-top: 25px;
-
+   margin-top: 35px;
 }
 
 #marque .img li {
@@ -79,7 +77,7 @@ a:active {
 }
 
 
-#shoerow1 .card {
+.shoerow .card {
   border-radius: 5px;
   font-family: "Montserrat", sans-serif;
   min-height: 300px;
@@ -87,20 +85,20 @@ a:active {
   margin-bottom: 15px;
 }
 
-#shoerow1 .card .cart-link .card-pic {
+.shoerow .card .cart-link .card-pic {
   background: #eee;
 }
 
-#shoerow1 .card .cart-link .card-description {
+#shoerow1.card .cart-link .card-description {
   min-height: 140px;
   position: relative;
 } /*https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom*/
 
-#shoerow1 .card .cart-link .card-description p {
+.shoerow .card .cart-link .card-description p {
   font-size: 0.95em;
 }
 
-#shoerow1 .card .cart-link .card-description h6 {
+.shoerow .card .cart-link .card-description h6 {
   font-size: 1em;
   font-weight: 1000;
   text-align: right;
@@ -110,52 +108,11 @@ a:active {
   right: 0px;
 }
 
-#shoerow1 .card .card-cart .size {
+.shoerow .card .card-cart .size {
   width: 100%;
 }
 
-#shoerow1 .card .card-cart .button-primary {
-  width: 100%;
-  background-color: black;
-  border-color: black;
-}
-
-#shoerow2 .card {
-  border-radius: 5px;
-  font-family: "Montserrat", sans-serif;
-  min-height: 400px;
-  margin-top: 40px;
-  margin-bottom: 15px;
-}
-
-#shoerow2 .card .cart-link .card-pic {
-  background: #eee;
-}
-
-#shoerow2 .card .cart-link .card-description {
-  min-height: 140px;
-  position: relative;
-}
-
-#shoerow2 .card .cart-link .card-description p {
-  font-size: 0.95em;
-}
-
-#shoerow2 .card .cart-link .card-description h6 {
-  font-size: 1em;
-  font-weight: 1000;
-  text-align: right;
-  margin-bottom: 2px;
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
-}
-
-#shoerow2 .card .card-cart .size {
-  width: 100%;
-}
-
-#shoerow2 .card .card-cart .button-primary {
+.shoerow .card .card-cart .button-primary {
   width: 100%;
   background-color: black;
   border-color: black;
