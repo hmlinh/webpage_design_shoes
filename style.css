@@ -10,23 +10,22 @@ a:active {
   background-color: #ddbea9;
 }
 
-#shipping .container p {
+#shipping p {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 80%;
   margin-bottom: 0px;
 }
 
-#shipping .container marquee {
+#shipping marquee {
   text-align: center;
 }
 
-#marque .name h1 {
+#marque .name {
   font-family: "Rufina", serif;
   font-weight: 1000;
   text-transform: uppercase;
   text-align: left;
-  font-size: 250%;
   margin-top: 15px;
   margin-bottom: 10px;
 }
