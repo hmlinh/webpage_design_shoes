@@ -21,19 +21,22 @@ a:active {
   text-align: center;
 }
 
+
 #marque .name {
   font-family: "Rufina", serif;
   text-transform: uppercase;
   text-align: left;
-  padding-top: 22px;
+   margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 #marque .choices ul {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 110%;
-  padding-top: 35px;
   text-align: center;
+    padding-top: 25px;
+
 }
 
 #marque .choices li {
@@ -45,9 +48,9 @@ a:active {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   text-align: right;
-  font-size: 110%;
-padding-top: 35px;
-  
+  font-size: 110%; 
+    padding-top: 25px;
+
 }
 
 #marque .img li {
