@@ -7,14 +7,14 @@ a:active {
 }
 
 #shipping {
-  background-color: #ddbea9;
+ background-color: #ddbea9; 
 }
 
 #shipping p {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 80%;
-  margin-bottom: 0px;
+ margin-bottom: 0px;
 }
 
 #shipping marquee {
@@ -23,19 +23,16 @@ a:active {
 
 #marque .name {
   font-family: "Rufina", serif;
-  font-weight: 1000;
   text-transform: uppercase;
   text-align: left;
-  margin-top: 15px;
-  margin-bottom: 10px;
+  padding-top: 22px;
 }
 
 #marque .choices ul {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 110%;
-  margin-top: 25px;
-  margin-bottom: 15px;
+  padding-top: 35px;
   text-align: center;
 }
 
@@ -49,8 +46,8 @@ a:active {
   font-weight: 600;
   text-align: right;
   font-size: 110%;
-  margin-top: 25px;
-  margin-bottom: 15px;
+padding-top: 35px;
+  
 }
 
 #marque .img li {
@@ -62,11 +59,9 @@ a:active {
   background-color: #ffe8d6;
 }
 
-#last-chance .text h1 {
+#last-chance h2 {
   font-family: "Rufina", serif;
-  font-weight: 1000;
   text-transform: uppercase;
-  font-size: 285%;
   text-align: center;
   margin-top: 115px;
   margin-bottom: 0px;
@@ -80,7 +75,7 @@ a:active {
   margin-top: 0px;
 }
 
-/* Designing with Web */
+
 #shoerow1 .card {
   border-radius: 5px;
   font-family: "Montserrat", sans-serif;
