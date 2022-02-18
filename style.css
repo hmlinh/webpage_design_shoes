@@ -10,9 +10,8 @@ a:active {
  background-color: #ddbea9; 
 }
 
-#shipping p {
+#shipping #shipping-info {
   font-family: "Montserrat", sans-serif;
-  font-weight: 500;
   font-size: 80%;
  margin-bottom: 0px;
 }
@@ -85,20 +84,20 @@ a:active {
   margin-bottom: 15px;
 }
 
-.shoerow .card .cart-link .card-pic {
-  background: #eee;
+.shoerow .card-pic {
+  background: #EEEEEE;
 }
 
-#shoerow1.card .cart-link .card-description {
+.shoerow .card-description {
   min-height: 140px;
   position: relative;
-} /*https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom*/
+} 
 
-.shoerow .card .cart-link .card-description p {
+.shoerow .card-description p {
   font-size: 0.95em;
 }
 
-.shoerow .card .cart-link .card-description h6 {
+.shoerow .card-description h6 {
   font-size: 1em;
   font-weight: 1000;
   text-align: right;
