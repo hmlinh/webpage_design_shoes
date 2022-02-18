@@ -67,7 +67,7 @@ a:active {
   margin-bottom: 0px;
 }
 
-#last-chance .text p {
+#last-chance #cta {
   font-family: "Montserrat", sans-serif;
   font-weight: 1000;
   text-align: center;
@@ -107,11 +107,11 @@ a:active {
   right: 0px;
 }
 
-.shoerow .card .card-cart .size {
+.shoerow .size {
   width: 100%;
 }
 
-.shoerow .card .card-cart .button-primary {
+.shoerow .button-primary {
   width: 100%;
   background-color: black;
   border-color: black;
